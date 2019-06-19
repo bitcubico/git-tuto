@@ -86,8 +86,17 @@
 ## REBASE
 * git rebase master           |-> Agrega los commit del master posteriores a la rama donde estoy ubicado para que quede todo actualizado
 
-# Comandos GITHUB;
+# GITHUB
 
+## Ejemplo de como se crea un nuevo repositorio asociado a un proyecto en GITHUB
+1. echo "# git-tuto" >> README.md
+2. git init
+3. git add README.md
+4. git commit -m "first commit"
+5. git remote add origin https://github.com/bitcubico/git-tuto.git
+6. git push -u origin master
+
+## Comandos de GITHUB:
 * git clone https://github.com/bitcubico/udemy-heroes.git                 |-> Clona un repositorio localmente
 * git clone https://github.com/bitcubico/udemy-heroes.git nombre_dir>    |-> Clona un repositorio localmente indicando el nombre del directorio
 * git remote add origin https://github.com/bitcubico/udemy-heroes.git     |-> Especifica la ruta de repositorio
