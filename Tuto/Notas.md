@@ -106,6 +106,7 @@
 * git tag -a v1.0.0 -m "Mensaje"                  |-> Crea un nuevo tag con una anotación y un mensaje para el mismo
 * git tag -a v0.1.0 idCommit -m "Mensaje"         |-> Agrega un tag a un commit específico
 * git show v1.0.0                                 |-> Despliega la información de un tag específico
+* git push --tags                                 |-> Sube los tags al repositorio GITHUB
 
 # GITHUB
 
