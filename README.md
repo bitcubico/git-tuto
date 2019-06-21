@@ -44,6 +44,7 @@
 * `git config --global user.email "mcubico33@gmail.com"`: Crea el email del usuario que va a hacer modificaciones desde esta máquina
 * `git config --global -e`: Muestra el archivo que contiene la configuración de los usuarios
 * `git config core.autocrlf true`: Corrige problema con la ejecución del comando CRLF
+* `git config --get-regexp alias`: Obtiene todos los alias configurados y sus definiciones
 * `git config --global alias.nombre "log --oneline --decorate --all --graph"`; Sirve para crear alias de comandos en git
 * `git config --global --unset alias.trololo`: Elimina un alias específico
 * `git init`: Indica que ese directorio será un repositorio
