@@ -20,7 +20,7 @@
 
 ## CHEKOUT
 
-* `git checkout`:: Obtiene la ultima versión del proyecto
+* `git checkout`: Obtiene la ultima versión del proyecto
 * `git checkout -- archivo`: Obtiene la ultima versión de un archivo en específico
 * `git checkout nombre-branch`:  Me ubica en la rama indicada
 * `git checkout -b nombre-branch`: Crea una nueva rama y me ubica en la misma
