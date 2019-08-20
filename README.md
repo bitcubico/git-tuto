@@ -99,6 +99,8 @@
 ## RM
 
 * `git rm nombre_archivo.ext`: Elimina un archivo conservando todo su historial (Se debe realizar commit para confirmar el cambio)
+* `git rm --cache file`: Elimina un archivo conservando todo su historial e indicando que se desea eliminar del repositorio también
+
 
 ## STASH
 
