@@ -47,7 +47,9 @@
 * `git config --get-regexp alias`: Obtiene todos los alias configurados y sus definiciones
 * `git config --global alias.nombre "log --oneline --decorate --all --graph"`; Sirve para crear alias de comandos en git
 * `git config --global --unset alias.trololo`: Elimina un alias específico
+* `git config --list`: Despliega todas las **configuraciones git**
 * `git init`: Indica que ese directorio será un repositorio
+
 
 ## DIFF
 
