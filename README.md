@@ -1,4 +1,9 @@
-# Comandos GIT
+# GIT
+
+## Intalación
+Descargue git desde [aquí](https://git-scm.com/download/win)
+
+## Comandos GIT
 
 ## ADD
 
