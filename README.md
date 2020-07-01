@@ -3,6 +3,9 @@
 ## Intalación
 Descargue git desde [aquí](https://git-scm.com/download/win)
 
+## Documentación oficial
+La documentación oficial de GIT la puedes encontrar [aquí](https://git-scm.com/docs)
+
 ## Comandos GIT
 
 ## ADD
@@ -34,6 +37,8 @@ Descargue git desde [aquí](https://git-scm.com/download/win)
 
 * `git clone urlRepoGit`: Clona un repositorio localmente
 * `git clone urlRepoGit nombre_dir`: Clona un repositorio localmente en un directorio específico
+* Para autenticarse en un repositorio específico, con un usuario y contraseña especifica seguir usar la siguiente estructura:\
+`git clone https://USUARIO:CONTRASEÑA@URL_REPO`
 
 ## COMMIT
 
