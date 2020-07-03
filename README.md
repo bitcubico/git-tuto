@@ -95,7 +95,7 @@ La documentación oficial de GIT la puedes encontrar [aquí](https://git-scm.com
 
 * `git push`: Sube los artefactos al repositorio
 * `git push -u origin master`: Sube los artefactos al repositorio especificando el nombre de la realizar
-* `git push --tagsSube`: Sube los tags al repositorio
+* `git push --tags`: Sube los tags al repositorio
 
 ## REBASE
 
